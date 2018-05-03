@@ -69,7 +69,7 @@ public class SettingActivity extends AppCompatActivity {
     StorageReference storageReference;
 
     StorageReference pathReference;
-    String jenis;
+    String jenis, tesd;
 
 
     private Uri filePath;
