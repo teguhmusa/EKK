@@ -39,7 +39,6 @@ import com.project.esoft.ekk.LoginActivity;
 import com.project.esoft.ekk.R;
 import com.project.esoft.ekk.SettingActivity;
 import com.project.esoft.ekk.TambahPegawaiActivity;
-import com.project.esoft.ekk.TestActivity;
 
 import de.hdodenhof.circleimageview.CircleImageView;
 
