@@ -37,7 +37,6 @@
         <activity android:name=".TambahPegawaiActivity" />
         <activity android:name=".ActivityUser.UnverifiedActivity" />
         <activity android:name=".Admin.DaftarPegawaiActivity" />
-        <activity android:name=".TestActivity" />
         <activity android:name=".Admin.AprovalActivity" />
         <activity android:name=".Marketing.ProsesRumahActivity"
             android:theme="@style/AppThemeMarketing"/>
