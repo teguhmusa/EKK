@@ -18,7 +18,7 @@ public class ForgetPasswordActivity extends AppCompatActivity {
     public final static String TAG_EMAIL = "email";
     FirebaseAuth mAuth;
     Button btnResetPassword;
-    EditText edtEmail;
+    EditText edtEmail edt2x;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
