@@ -87,7 +87,6 @@ public class SettingActivity extends AppCompatActivity {
         try {
             jenis = getIntent().getStringExtra(TAG_JENISID);
         }catch (Exception e){
-
         }
 
         if(jenis.equals("marketing")){
